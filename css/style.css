@@ -90,9 +90,14 @@ body{
   padding:6px 0 25px;
 }
 
-.hero-text{
-  font-weight:400;
-  font-size:18px;
+.hero-text-latinuri-absoluturi{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic;
+  font-variation-settings:
+    "wdth" 100;
+  font-size:16px;
   line-height:165%;
   color:#525C60;
   width:671px;
@@ -135,8 +140,10 @@ body{
   color:#274C5B;
 }
 
-.feature-text{
-  width:504px;
+.feature-text-latinuri-relatiuri{
+   font-family: 'Open Sans';
+  
+    width:504px;
   padding-left:60px;
   font-weight:400;
   font-size:18px;
