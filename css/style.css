@@ -186,6 +186,7 @@ body{
 }
 
 .benefit-text{
+     font-family: 'Open Sans';
   width:184px;
   font-weight:400;
   font-size:18px;
@@ -194,3 +195,14 @@ body{
   margin-top:20px;
   text-align:center;
 }
+/* letter-spacing:3px ასოებს შორის დაშორება 
+
+line-height: 165%;
+
+text-transform 
+: uppercase ტექსტი დაიწერება დიდი ასოებით
+lowercase პატარა ასოებით დაიწერება
+ capitalize სიტყვის პირველი ასო დაიწერება დიდი ასოთი
+
+ text-indent აბზაცი რამდენით იყოს გამოწეული
+ */
