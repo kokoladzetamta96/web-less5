@@ -1,0 +1,186 @@
+/* page base */
+body{
+  background-color:#f3f3f3;
+}
+
+/* header */
+.site-header{
+  background:#fff;
+  padding:69px 0;
+}
+
+.header-inner{
+  width:1400px;
+  margin:0 auto;
+  padding-left:162px;
+}
+
+.brand,
+.main-nav{
+  display:inline-block;
+  vertical-align:middle;
+}
+
+.main-nav{
+  margin-left:150px;
+}
+
+.main-nav-list{
+  font-size:0;
+}
+
+.main-nav-item{
+  display:inline-block;
+  vertical-align:middle;
+  margin-right:45px;
+}
+
+.main-nav-item:last-child{
+  margin-right:0;
+}
+
+.main-nav-link{
+  font-weight:700;
+  font-size:20px;
+  line-height:100%;
+  color:#274C5B;
+}
+
+/* hero */
+.hero{
+  width:1400px;
+  margin:100px auto;
+}
+
+.hero-inner{
+  font-size:0;
+}
+
+.hero-content,
+.hero-media{
+  display:inline-block;
+  vertical-align:middle;
+  font-size:16px;
+}
+
+.hero-content{
+  width:671px;
+}
+
+.hero-media{
+  width:678px;
+  margin-left:51px;
+}
+
+.hero-kicker{
+  font-weight:400;
+  font-size:36px;
+  line-height:100%;
+  color:#7EB693;
+}
+
+.hero-title{
+  font-weight:800;
+  font-size:50px;
+  line-height:100%;
+  color:#274C5B;
+  width:524px;
+  padding:6px 0 25px;
+}
+
+.hero-text{
+  font-weight:400;
+  font-size:18px;
+  line-height:165%;
+  color:#525C60;
+  width:671px;
+}
+
+.hero-photo{
+  width:678px;
+  border-radius:30px;
+  display:block;
+}
+
+/* features */
+.feature{
+  margin-top:24px;
+}
+
+.feature:first-of-type{
+  margin-top:36px;
+}
+
+.feature-head{
+  width:339px;
+  height:81px;
+  background:#ECECEC;
+  padding:29px 91px 29px 27px;
+}
+
+.feature-icon,
+.feature-title{
+  display:inline-block;
+  vertical-align:middle;
+}
+
+.feature-title{
+  margin-left:7px;
+  font-weight:500;
+  font-size:20px;
+  line-height:100%;
+  color:#274C5B;
+}
+
+.feature-text{
+  width:504px;
+  padding-left:60px;
+  font-weight:400;
+  font-size:18px;
+  line-height:165%;
+  color:#525C60;
+  margin-top:0;
+}
+
+/* benefits */
+.benefits{
+  margin:100px 0;
+}
+
+.benefits-inner{
+  width:1118px;
+  margin:0 auto;
+  font-size:0;
+}
+
+.benefit-card{
+  display:inline-block;
+  vertical-align:top;
+  width:257px;
+  height:335px;
+  background:#fff;
+  padding:29px 0 0 22px;
+  margin-right:30px;
+  font-size:16px;
+}
+
+.benefit-card:last-child{
+  margin-right:0;
+}
+
+.benefit-title{
+  font-weight:800;
+  font-size:25px;
+  line-height:100%;
+  color:#274C5B;
+}
+
+.benefit-text{
+  width:184px;
+  font-weight:400;
+  font-size:18px;
+  line-height:165%;
+  color:#525C60;
+  margin-top:20px;
+  text-align:center;
+}
